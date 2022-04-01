@@ -17,7 +17,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/DevillHaunter/HAUNTERCRACKER
+git clone https://github.com/TamimBhuiyan01/HUNTERCRACKER
 
 cd HAUNTERCRACKER
 
