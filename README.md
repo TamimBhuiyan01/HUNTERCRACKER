@@ -21,15 +21,17 @@ git clone https://github.com/DevillHaunter/HAUNTERCRACKER
 
 cd HAUNTERCRACKER
 
-python2 pakhaunter.py
+python2 siamvau.py
+
 
 ````
 
 # USERNAME & PASSWORDS 
 ````
 
-USERNAME : alaminKHAN
-PASSWORD : HAUNTERboy
+USERNAME : siam vau
+PASSWORD :GIFT FROM ZIHAD
+ 
 ````
 
 ![](https://g.top4top.io/p_18787ku1g0.jpg)
